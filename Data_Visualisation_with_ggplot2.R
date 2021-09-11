@@ -7,7 +7,7 @@
 #ggplot2
 ###########################################################################
 
-
+ 
 # Loading libraries -------------------------------------------------------
 library(tidyverse) #contains ggplot2 and other useful libraries
 library(palmerpenguins) #library with data about penguins in Antarctica
